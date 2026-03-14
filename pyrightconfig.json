@@ -1,0 +1,4 @@
+{
+    "typeCheckingMode": "off"
+}
+// This tells VS Code's Pylance to stop being overly strict about LangChain's type hints — LangChain is known for this issue across all projects.

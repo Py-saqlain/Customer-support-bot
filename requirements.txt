@@ -1,0 +1,15 @@
+# Core LangChain
+langchain
+langchain-groq
+langchain-core
+langchain-community
+
+# Environment variables
+python-dotenv
+
+# UI
+streamlit
+
+# PDF reading (Day 3)
+pypdf
+faiss-cpu
