@@ -13,3 +13,7 @@ streamlit
 # PDF reading (Day 3)
 pypdf
 faiss-cpu
+
+sentence-transformers
+langchain-huggingface
+langchain-text-splitters
